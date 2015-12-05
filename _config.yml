@@ -1,7 +1,7 @@
 name: Stephanie Richardson
 favicon: null
-layout_spectrum: 0.574304532026872
-typography_spectrum: 0.178833652054891
+layout_spectrum: 0.59419
+typography_spectrum: 0.28481
 title: 'CF Access Consciousness & Aha Catalyst'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9756808697711676
-  lightness: 0.604644269682467
-  saturation: 0.667204208439216
-  rhythmicContrast: 0.7415459952317178
+    - '#003056'
+    - '#007384'
+    - '#fcfffe'
+    - '#90a7f8'
+    - '#cadcfc'
+  brandStrength: 0.3125
+  lightness: 0.875
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
